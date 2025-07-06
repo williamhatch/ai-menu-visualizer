@@ -29,7 +29,7 @@ I created an AI Menu Visualizer that transforms static restaurant menus into vib
 ![UI](img/2.png)
 ![Final Results](img/4.png)
 
-Try it out: [Your deployed URL]
+
 
 Key Features:
 - Bilingual menu support (English & Chinese)
