@@ -1,6 +1,6 @@
 {
   "name": "AI Menu Visualizer",
-  "description": "Upload a photo of a restaurant menu (in English or Chinese) and our AI will analyze the dishes and generate a beautiful, visual representation of each item.",
+  "description": "Upload or take a picture of a restaurant menu to see AI-generated images of the dishes. This app uses Gemini to parse the menu and Imagen to visualize the food.",
   "requestFramePermissions": [
     "camera"
   ]
